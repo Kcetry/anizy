@@ -1,4 +1,4 @@
-# anizy
+# Anizy
 A downloader on NodeJS that easy to download the datasheets from alldatasheet.com
 
 ##usage
